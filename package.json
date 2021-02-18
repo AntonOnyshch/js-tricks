@@ -14,7 +14,7 @@
         "mocha": "^8.2.1"
     },
     "scripts": {
-        "test:convert:c_s_u": "mocha -r @babel/register tests/**/*.js"
+        "test:convert": "mocha -r @babel/register tests/**/*.js"
     },
     "keywords": [],
     "author": "",
